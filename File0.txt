@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Có sửa đổi không?
+=======
+line2
+>>>>>>> Alpha
