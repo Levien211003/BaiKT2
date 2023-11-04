@@ -1,6 +1,1 @@
-4.	Phát hiện và xử lý lỗi gấp
-•	Từ nhánh chính, hãy tạo nhánh Hotfix
-•	Chuyển qua nhánh Hotfix
-•	Sửa nội dung trên File1.txt và commit “C6”
-•	Sửa nội dung trên File0.txt và commit “C7”
-•	Chụp màn hình kết quả
+Có sửa đổi không?
