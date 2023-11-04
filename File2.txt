@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Có sửa đổi không?
-=======
-ádjasbdasb
->>>>>>> Alpha
+Đã xử lý xung đột
